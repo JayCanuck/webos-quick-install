@@ -1,4 +1,4 @@
-webos-quick-install
+WebOS Quick Install v4.5.0
 ===================
 [![](http://img248.imageshack.us/img248/7373/wosqi.th.png)](http://img248.imageshack.us/img248/7373/wosqi.png)    [![](http://img11.imageshack.us/img11/2171/wosqi4.th.png)](http://img11.imageshack.us/img11/2171/wosqi4.png)
 
