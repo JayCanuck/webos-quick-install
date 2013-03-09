@@ -1,9 +1,12 @@
 WebOS Quick Install v4.5.0
 ===================
+
 [![](http://img248.imageshack.us/img248/7373/wosqi.th.png)](http://img248.imageshack.us/img248/7373/wosqi.png)    [![](http://img11.imageshack.us/img11/2171/wosqi4.th.png)](http://img11.imageshack.us/img11/2171/wosqi4.png)
 
 
 This program is intended for use with WebOS applications that are in-testing, which under section 4.2 of the Palm SDK License Agreement allows for such unapproved applications to be installed on Palm devices.  Applications installed with WebOS Quick Install have not be tested by Palm and are installed at your own risk.
+
+Powered by my [webOSLib java library](https://github.com/JayCanuck/java-weboslib).
 
 **Features**
 
