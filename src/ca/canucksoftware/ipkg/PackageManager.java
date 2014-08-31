@@ -38,13 +38,13 @@ public class PackageManager {
         bundle = WebOSQuickInstallApp.bundle;
         ALL_CATEGORIES = "--" + bundle.getString("ALL") + "--";
         defaultFeeds = new String[] {
-            "http://ipkg.preware.org/feeds/precentral/Packages.gz",
-            "http://ipkg.preware.org/feeds/webos-internals/all/Packages.gz",
-            "http://ipkg.preware.org/feeds/webos-internals/" + device.arch() + "/Packages.gz",
-            "http://ipkg.preware.org/feeds/webos-patches/" + device.version() + "/Packages.gz",
-            "http://ipkg.preware.org/feeds/webos-kernels/" + device.version() + "/Packages.gz",
+            "http://ipkg.preware.net/feeds/precentral/Packages.gz",
+            "http://ipkg.preware.net/feeds/webos-internals/all/Packages.gz",
+            "http://ipkg.preware.net/feeds/webos-internals/" + device.arch() + "/Packages.gz",
+            "http://ipkg.preware.net/feeds/webos-patches/" + device.version() + "/Packages.gz",
+            "http://ipkg.preware.net/feeds/webos-kernels/" + device.version() + "/Packages.gz",
             "http://www.prethemer.com/feeds/preware/themes/Packages.gz",
-            "http://ipkg.preware.org/feeds/precentral-themes/Packages.gz",
+            "http://ipkg.preware.net/feeds/precentral-themes/Packages.gz",
             "http://webos-clock-themer.googlecode.com/svn/trunk/WebOS%20Clock%20Theme%20Builder/feed/Packages.gz"
         };
         Preferences prefs = Preferences.systemRoot();

@@ -90,7 +90,7 @@ public class Installer extends javax.swing.JDialog {
                 if(isPatch(name)) {
                     if(!containsPatch) {
                         webOS.sendScript(ScriptType.Patch);
-                        PackageFeed wosiFeed = PackageFeed.Download("http://ipkg.preware.org/feeds/webos-internals/all/Packages.gz");
+                        PackageFeed wosiFeed = PackageFeed.Download("http://ipkg.preware.net/feeds/webos-internals/all/Packages.gz");
                         int ausmtIndex = wosiFeed.indexOf("org.webosinternals.ausmt");
                         if(ausmtIndex>-1) {
                             okForPatch = patcher.meetsRequirements(wosiFeed.packages.get(ausmtIndex).getDownloadUrl());
