@@ -24,15 +24,15 @@ Powered by my [webOSLib java library](https://github.com/JayCanuck/java-weboslib
 
 
 **Setup Guide/Problem Troubleshooting**
-* If you would like step-by-step directions on how to get things up and running, or are encountering some issues, I highly recommend checking out the official **[WOSQI Homebrew Guide]("http://bit.ly/wosqi-guide")**.
+* If you would like step-by-step directions on how to get things up and running, or are encountering some issues, I highly recommend checking out the official **[WOSQI Homebrew Guide](http://bit.ly/wosqi-guide)**.
 
 
 **Requirements**
 
-* [Java 1.6 or greater]("http://www.java.com/en/download/manual.jsp")
+* [Java 1.6 or greater](http://www.java.com/en/download/manual.jsp)
  * For Mac OS X, once you've installed Java 1.6, run /Applications/Utilities/Java/Java Preferences. Then click and drag Jave SE 6 to top of both list, and exit the program. This will set Java 1.6 as the default version to use.
 
-* Novacom or [Adb]("http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378")
+* Novacom or [Adb](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378)
  * This will get installed automatically when you run WebOS Quick Install. ADB is required for LuneOS only.
 
 * DevMode enabled
