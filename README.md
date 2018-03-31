@@ -1,5 +1,6 @@
 WebOS Quick Install v4.6.0
 ===================
+> **NOTICE: THIS TOOL IS DESIGNED FOR LEGACY PALM/HP WEBOS AND SOME VERSIONS OF LUNEOS. IT IS NOT COMPATIBLE WITH WEBOS OSE OR LG WEBOS.**
 
 [![](http://i57.tinypic.com/rc7all_th.png)](http://oi57.tinypic.com/rc7all.jpg)
 
