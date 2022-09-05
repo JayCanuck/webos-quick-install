@@ -2,7 +2,7 @@ WebOS Quick Install v4.6.0
 ===================
 > **NOTICE: THIS TOOL IS DESIGNED FOR LEGACY PALM/HP WEBOS AND SOME VERSIONS OF LUNEOS. IT IS NOT COMPATIBLE WITH WEBOS OSE OR LG WEBOS.**
 
-[![](http://i57.tinypic.com/rc7all_th.png)](http://oi57.tinypic.com/rc7all.jpg)
+![demo](https://raw.githubusercontent.com/JayCanuck/webos-quick-install/master/screenshot.png)
 
 
 This program is intended for use with WebOS applications that are in-testing, which under section 4.2 of the Palm SDK License Agreement allows for such unapproved applications to be installed on Palm devices.  Applications installed with WebOS Quick Install have not be tested by Palm and are installed at your own risk.
